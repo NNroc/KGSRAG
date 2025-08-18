@@ -33,27 +33,32 @@ pip install -r requirements.txt
 ```
 
 ## Preprocessing Data
+Before preprocessing the data, you need to download the dataset to the corresponding location, as shown in the data file format above.
 ```
 python ./preprocess/pre_bioasq.py
 python ./preprocess/pre_pubmedqa.py
 ```
 
 ## Information Extraction
+This process will extract information from the given corpus and build a knowledge base and knowledge graph.
 ```
 bash ./script/information_extraction.sh
 ```
 
 ## Question Extraction
+This process will extract macro-level and micro-level keywords from the question, generate statements based on the question, and store them.
 ```
 bash ./script/question_decomposition.sh
 ```
 
 ## Answer Generation
+This process will use the knowledge graph to retrieve information based on the question, macro-level keywords, and micro-level keywords. It will make judgments based on the question statements, focus on key information, and finally generate responses.
 ```
 bash script/generate_answer.sh
 ```
 
 ## Evaluation
+This process will evaluate the response results. The evaluation method of BioASQ-QA is revised from [here](https://github.com/BioASQ/Evaluation-Measures). The summary of the evaluation results is reported in the ./output/evaluation folder.
 ```
 bash script/evaluate_bioasq.sh
 bash script/evaluate_pubmedqa.sh
