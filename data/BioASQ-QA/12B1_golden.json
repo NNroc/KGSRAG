@@ -1,0 +1,224 @@
+{
+  "questions": [
+    {
+      "body": "Concizumab is used for which diseases?",
+      "documents": [
+        "http://www.ncbi.nlm.nih.gov/pubmed/37341887",
+        "http://www.ncbi.nlm.nih.gov/pubmed/35869698",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37146647",
+        "http://www.ncbi.nlm.nih.gov/pubmed/37646676",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30137664",
+        "http://www.ncbi.nlm.nih.gov/pubmed/28594458",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31394258",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30614620",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33570646",
+        "http://www.ncbi.nlm.nih.gov/pubmed/33819375",
+        "http://www.ncbi.nlm.nih.gov/pubmed/35465188",
+        "http://www.ncbi.nlm.nih.gov/pubmed/25641556",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31444162",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30146094",
+        "http://www.ncbi.nlm.nih.gov/pubmed/29931593",
+        "http://www.ncbi.nlm.nih.gov/pubmed/29517971",
+        "http://www.ncbi.nlm.nih.gov/pubmed/35290453",
+        "http://www.ncbi.nlm.nih.gov/pubmed/35088769",
+        "http://www.ncbi.nlm.nih.gov/pubmed/32008381",
+        "http://www.ncbi.nlm.nih.gov/pubmed/29845491",
+        "http://www.ncbi.nlm.nih.gov/pubmed/31676141",
+        "http://www.ncbi.nlm.nih.gov/pubmed/34581771",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30408848",
+        "http://www.ncbi.nlm.nih.gov/pubmed/30559263"
+      ],
+      "type": "list",
+      "snippets": [
+        {
+          "offsetInBeginSection": 226,
+          "offsetInEndSection": 599,
+          "text": "Concizumab is being developed by Novo Nordisk for the treatment of hemophilia A and B with and without inhibitors. In March 2023, concizumab was approved in Canada for the treatment of adolescent and adult patients (12 years of age or older) with hemophilia B who have FIX inhibitors and require routine prophylaxis to prevent or reduce the frequency of bleeding episodes. ",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37341887"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 285,
+          "text": "Some non-factor products that work by facilitating the coagulation pathway (emicizumab) and blocking the anticoagulant pathway (fitusiran, concizumab and marstacimab) for patients with haemophilia (H) have been developed, and clinical trials using these products are currently ongoing.",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35869698"
+        },
+        {
+          "offsetInBeginSection": 176,
+          "offsetInEndSection": 299,
+          "text": "A previous trial of concizumab (explorer4) established proof of concept in patients with hemophilia A or B with inhibitors.",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37646676"
+        },
+        {
+          "offsetInBeginSection": 12,
+          "offsetInEndSection": 174,
+          "text": "Concizumab is an anti-tissue factor pathway inhibitor monoclonal antibody designed to achieve hemostasis in all hemophilia types, with subcutaneous administration",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37646676"
+        },
+        {
+          "offsetInBeginSection": 341,
+          "offsetInEndSection": 598,
+          "text": "In March 2023, concizumab was approved in Canada for the treatment of adolescent and adult patients (12 years of age or older) with hemophilia B who have FIX inhibitors and require routine prophylaxis to prevent or reduce the frequency of bleeding episodes.",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37341887"
+        },
+        {
+          "offsetInBeginSection": 599,
+          "offsetInEndSection": 736,
+          "text": "This article summarizes the milestones in the development of concizumab leading to this first approval for the treatment of hemophilia B.",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37341887"
+        },
+        {
+          "offsetInBeginSection": 2086,
+          "offsetInEndSection": 2226,
+          "text": "Conclusion explorer™3 data support further clinical development of concizumab for use in people with hemophilia, with or without inhibitors.",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30137664"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 148,
+          "text": "Concizumab as a Subcutaneous Prophylactic Treatment Option for Patients with Hemophilia A or B: A Review of the Evidence and Patient\u0027s Perspectives.",
+          "beginSection": "title",
+          "endSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35465188"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 71,
+          "text": "Concizumab is a novel subcutaneous prophylactic therapy for hemophilia.",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33570646"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 340,
+          "text": "Concizumab (Alhemo™), a subcutaneously administered humanised monoclonal IgG4 antibody against tissue factor pathway inhibitor (TFPI), binds to the Kunitz-2 domain of TFPI and prevents TFPI from binding to activated Factor X. Concizumab is being developed by Novo Nordisk for the treatment of hemophilia A and B with and without inhibitors.",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37341887"
+        },
+        {
+          "offsetInBeginSection": 220,
+          "offsetInEndSection": 446,
+          "text": "Prophylaxis with subcutaneous long-acting non-factor products that improve in vivo thrombin generation is now under intensive investigation (concizumab, fitusiran) or successfully employed (emicizumab) in haemophilia patients.",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31676141"
+        },
+        {
+          "offsetInBeginSection": 375,
+          "offsetInEndSection": 585,
+          "text": "Concizumab is a monoclonal antibody (mAb) against tissue factor pathway inhibitor (TFPI), currently in clinical development as a subcutaneous prophylactic therapy for hemophilia A/B with and without inhibitors.",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30614620"
+        },
+        {
+          "offsetInBeginSection": 148,
+          "offsetInEndSection": 656,
+          "text": "A monoclonal antibody (concizumab) targeting tissue factor pathway inhibitor (TFPI) that can be administered subcutaneously (s.c.) has the potential to alter current concepts of prophylaxis in hemophilia.OBJECTIVES: To evaluate the safety and describe the pharmacokinetics and pharmacodynamics of single-dose concizumab in healthy volunteers and patients with hemophilia A or B.METHODS: In this first human dose, phase 1, multicenter, randomized, double-blind, placebo-controlled trial escalating single i.v.",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/25641556"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 599,
+          "text": "Concizumab (Alhemo™), a subcutaneously administered humanised monoclonal IgG4 antibody against tissue factor pathway inhibitor (TFPI), binds to the Kunitz-2 domain of TFPI and prevents TFPI from binding to activated Factor X. Concizumab is being developed by Novo Nordisk for the treatment of hemophilia A and B with and without inhibitors. In March 2023, concizumab was approved in Canada for the treatment of adolescent and adult patients (12 years of age or older) with hemophilia B who have FIX inhibitors and require routine prophylaxis to prevent or reduce the frequency of bleeding episodes. ",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37341887"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 739,
+          "text": "Concizumab is a novel subcutaneous prophylactic therapy for hemophilia. It is a hemostatic rebalancing agent that binds to the Kunitz-2 domain of tissue factor pathway inhibitor (TFPI), one of the molecules that contributes to downregulation of coagulation thereby preventing TFPI from binding to and blocking the factor Xa (FXa) active site. When the TFPI inhibitory activity is decreased, sufficient FXa is produced by the FVIIa-tissue factor complex to achieve hemostasis. On the basis of this mechanism of action, concizumab is expected to be equally effective in hemophilia A and B, regardless of inhibitor status. Moreover, the concizumab mechanism of action does not interfere with the regulation of coagulation downstream of TFPI. ",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33570646"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 164,
+          "text": "BACKGROUND: Concizumab is an anti-tissue factor pathway inhibitor monoclonal antibody designed to achieve hemostasis in all hemophilia types, with subcutaneous admi",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/37646676"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 564,
+          "text": "Concizumab is a monoclonal, humanized IgG4 antibody specific for the Kunitz-2 domain of Tissue Factor Pathway Inhibitor (TFPI). Preclinical studies in vitro or on animal models and in vivo have demonstrated the ability of concizumab to restore thrombin generation, promoting the establishment of a procoagulant action; all these results were subsequently confirmed in the studies of EXPLORER program. Concizumab may represent a new opportunity for the treatment of persons with hemophilia, so there is much anticipation for the results of the ongoing trials still.",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/35465188"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 194,
+          "text": "Concizumab is a humanized monoclonal antibody in clinical investigation directed against membrane-bound and soluble tissue factor pathway inhibitor (mTFPI and sTFPI) for treatment of hemophilia.",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/31394258"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 185,
+          "text": "BACKGROUND: The anti-tissue factor plasma inhibitor monoclonal antibody concizumab is under clinical investigation for subcutaneous prophylaxis of hemophilia A/B (HA/HB) with or without",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33819375"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 135,
+          "text": "Correction to: Inhibition of Tissue Factor Pathway Inhibitor (TFPI) as a Treatment for Haemophilia: Rationale with Focus on Concizumab.",
+          "beginSection": "title",
+          "endSection": "title",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/29931593"
+        },
+        {
+          "offsetInBeginSection": 0,
+          "offsetInEndSection": 108,
+          "text": "Concizumab is a novel subcutaneous prophylactic therapy for hemophilia. It is a hemostatic rebalancing agent",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/33570646"
+        },
+        {
+          "offsetInBeginSection": 300,
+          "offsetInEndSection": 419,
+          "text": "development of concizumab in people with hemophilia. SUMMARY: Background Concizumab is a humanized mAb targeting tissue",
+          "beginSection": "abstract",
+          "endSection": "abstract",
+          "document": "http://www.ncbi.nlm.nih.gov/pubmed/30137664"
+        }
+      ],
+      "id": "65cfad2d1930410b13000014",
+      "ideal_answer": [
+        "Concizumab is developed for hemophilia A and B."
+      ],
+      "exact_answer": [
+        [
+          "hemophilia A"
+        ],
+        [
+          "hemophilia B"
+        ]
+      ]
+    }
+  ]
+}

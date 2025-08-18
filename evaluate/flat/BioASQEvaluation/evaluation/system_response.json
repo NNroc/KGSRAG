@@ -1,0 +1,2967 @@
+{
+    "questions": [
+        {
+            "id": "65cfad2d1930410b13000014",
+            "body": "Concizumab is used for which diseases?",
+            "type": "list",
+            "output_answer": "[{\"entities\": [\"hemophilia A\", \"hemophilia B\"]}]\r\nExplanation: Based on the information provided in the data, concizumab is specifically mentioned as a therapeutic option for treating hemophilia A and B.",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "hemophilia A"
+                ],
+                [
+                    "hemophilia B"
+                ]
+            ]
+        },
+        {
+            "id": "65f7736fc4010b4d78000024",
+            "body": "What type of extracolonic tumors does the PMS2 germline mutation cause?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65f7080fc4010b4d78000019",
+            "body": "Do stroke patients have a lower risk of Obstructive Sleep Apnea?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65f859b2c4010b4d78000050",
+            "body": "Should all babies diagnosed with spina bifida be operated within the first week of life?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "65f7728fc4010b4d78000021",
+            "body": "What proportion of risk is attributable to obesity in colorectal cancer women development?",
+            "type": "factoid",
+            "output_answer": "[\"1.27\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "1.27"
+                ]
+            ]
+        },
+        {
+            "id": "65f490fac4010b4d78000010",
+            "body": "Has MDMA(ecstasy) been successfully used to treat PTSD disorder?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "64467f8657b1c7a31500006d",
+            "body": "How can Emery-Dreifuss Muscular Dystrophy (EDMD) be inherited?",
+            "type": "list",
+            "output_answer": "[\"X-linked recessive\", \"Autosomal dominant\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "X-linked recessive"
+                ],
+                [
+                    "Autosomal dominant"
+                ]
+            ]
+        },
+        {
+            "id": "65d12b451930410b13000031",
+            "body": "Can valproate be used during pregnancy?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65f7725ec4010b4d78000020",
+            "body": "Which dietary compounds are associated with colorectal cancer incidence?",
+            "type": "list",
+            "output_answer": "[]\n```json\n{}\n```",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "65f494d7c4010b4d78000013",
+            "body": "What is the relationship between  Electroporation (EP) and DNA vaccines?",
+            "type": "factoid",
+            "output_answer": "[{\"entities\": [\"DNA-EP\", \"electroporation\"]}]\n[\"Electroporation (EP) is an efficient and safe method for delivering plasmid DNA (DNA-EP) resulting in increased DNA uptake, enhanced protein expression, and increased immune responses to the target antigen in a variety of species.\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "Electroporation (EP) is an efficient and safe method for delivering plasmid DNA (DNA-EP) resulting in increased DNA uptake, enhanced protein expression, and increased immune responses to the target antigen in a variety of species."
+                ]
+            ]
+        },
+        {
+            "id": "65f84d20c4010b4d7800004a",
+            "body": "Is measles immunisation the best public health approach to reduce incidence of measles worldwide?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "64179034690f196b5100002b",
+            "body": "What type of DMD can golodirsen be used for?",
+            "type": "factoid",
+            "output_answer": "[\"exon 53 skip-amenable Duchenne muscular dystrophy\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "exon 53 skip-amenable Duchenne muscular dystrophy"
+                ]
+            ]
+        },
+        {
+            "id": "65d137871930410b1300003e",
+            "body": "What are active ingredients of Trikafta?",
+            "type": "list",
+            "output_answer": "[\"elexacaftor\", \"tezacaftor\", \"ivacaftor\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "elexacaftor"
+                ],
+                [
+                    "tezacaftor"
+                ],
+                [
+                    "ivacaftor"
+                ]
+            ]
+        },
+        {
+            "id": "65f77397c4010b4d78000025",
+            "body": "What proportion of alteration in NTRK genes are attributable to colorectal cancer?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65f1d234c4010b4d78000005",
+            "body": "Please list the Janus Kinase inhibitors used to treat Inflammatory Bowel Disease(IBD)",
+            "type": "list",
+            "output_answer": "```json\n{\"entities\": [\"tofacitinib\", \"filgotinib\", \"upadacitinib\", \"peficitinib\", \"td-1473\"]}\n```",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "tofacitinib"
+                ],
+                [
+                    "filgotinib"
+                ],
+                [
+                    "upadacitinib"
+                ],
+                [
+                    "peficitinib"
+                ],
+                [
+                    "td-1473"
+                ]
+            ]
+        },
+        {
+            "id": "65f83281c4010b4d78000040",
+            "body": "Are only babies and young children at risk of severe malaria in endemic areas?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "64414bdb57b1c7a315000058",
+            "body": "What types of glucosteroids are used for the management of Duchenne muscular dystrophy?",
+            "type": "list",
+            "output_answer": "[\"prednisone\", \"deflazacort\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "prednisone"
+                ],
+                [
+                    "deflazacort"
+                ]
+            ]
+        },
+        {
+            "id": "65cfd4b21930410b13000020",
+            "body": "Cilta-cel was developed for treatment of which disease?",
+            "type": "factoid",
+            "output_answer": "[\"multiple myeloma\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "multiple myeloma"
+                ]
+            ]
+        },
+        {
+            "id": "65f772d3c4010b4d78000022",
+            "body": "Which oncogene somatic mutations are associated to in situ carcinoma evolution from colonic polyp adenomas?",
+            "type": "list",
+            "output_answer": "[\"APC\", \"KRAS\", \"PIK3CA\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "APC"
+                ],
+                [
+                    "KRAS"
+                ],
+                [
+                    "PIK3CA"
+                ]
+            ]
+        },
+        {
+            "id": "65f8447fc4010b4d78000043",
+            "body": "What is the main cause of spillover events?",
+            "type": "factoid",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "644108b157b1c7a315000053",
+            "body": "What are the most commonly used pain scales for the measurement of pain in ICU?",
+            "type": "list",
+            "output_answer": "```json\n{\"entities\": [\"Zurich Observation Pain Assessment\", \"Behavioural Pain Scale\", \"Critical Care Pain Observation Tool\"]}\n```",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "Zurich Observation Pain Assessment"
+                ],
+                [
+                    "Behavioural Pain Scale"
+                ],
+                [
+                    "Critical Care Pain Observation Tool"
+                ]
+            ]
+        },
+        {
+            "id": "65d373e21930410b13000049",
+            "body": "What medication were tested in the PEMMELA trial?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "65ef83acdffffb9b6b000002",
+            "body": "is carotenodermia caused by an excess of lycopene in the diet?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65f85231c4010b4d7800004d",
+            "body": "Which are the two main active ingredients of the standard PrEP (Pre-Exposure Prophylaxis)?",
+            "type": "list",
+            "output_answer": "[[\"tenofovir disoproxil fumarate\", \"emtricitabine\"]]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "tenofovir disoproxil fumarate"
+                ],
+                [
+                    "emtricitabine"
+                ]
+            ]
+        },
+        {
+            "id": "6451007857b1c7a315000093",
+            "body": "What is the cause of Leigh syndrome?",
+            "type": "factoid",
+            "output_answer": "[\"mitochondrial dysfunction\", \"mutations in nuclear or mitochondrial genes\", \"defects in enzymes involved in aerobic energy metabolism and the Krebs' cycle\", \"complex I deficiency\", \"mutations in SURF1 gene\", \"mutations in NDUFS2 gene\", \"mutations in NDUFS7 gene\", \"pyruvate dehydrogenase complex deficiency\"]\n",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "mitochondrial dysfunction",
+                    "mutations in nuclear or mitochondrial genes",
+                    "defects in enzymes involved in aerobic energy metabolism and the Krebs' cycle",
+                    "complex I deficiency",
+                    "mutations in SURF1 gene",
+                    "mutations in NDUFS2 gene",
+                    "mutations in NDUFS7 gene",
+                    "pyruvate dehydrogenase complex deficiency"
+                ]
+            ]
+        },
+        {
+            "id": "65f77236c4010b4d7800001f",
+            "body": "Do black race patients have worse survival in colorectal cancer?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "65f1dadac4010b4d78000007",
+            "body": "Can Antioxidant curcumin kill tumor cells?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "65f85f77c4010b4d78000053",
+            "body": "Should we treat all patients with glaucoma?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65f70b9cc4010b4d7800001c",
+            "body": "What is the indication for Alirocumab?",
+            "type": "factoid",
+            "output_answer": "[\"hypercholesterolemia\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "hypercholesterolemia"
+                ]
+            ]
+        },
+        {
+            "id": "65f86a90c4010b4d78000057",
+            "body": "Is there an approved vaccine against Helicobacter pylori?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65cec1fb1930410b13000005",
+            "body": "What disease can be treated with Tebentafusp?",
+            "type": "factoid",
+            "output_answer": "[\"metastatic uveal melanoma\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "metastatic uveal melanoma"
+                ]
+            ]
+        },
+        {
+            "id": "65f856a1c4010b4d7800004e",
+            "body": "When was Havana Syndrome first recognized?",
+            "type": "factoid",
+            "output_answer": "[\"2016\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "2016"
+                ]
+            ]
+        },
+        {
+            "id": "65f86f03c4010b4d7800005b",
+            "body": "Is Marburg virus a member of the family of the Ebola virus (Filoviridae)?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "65d140e71930410b1300003f",
+            "body": "What medications were tested in the COSMIC-313 trial?",
+            "type": "list",
+            "output_answer": "[\"cabozantinib\", \"nivolumab\", \"ipilimumab\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "cabozantinib"
+                ],
+                [
+                    "nivolumab"
+                ],
+                [
+                    "ipilimumab"
+                ]
+            ]
+        },
+        {
+            "id": "65f86ba3c4010b4d78000059",
+            "body": "Which age group should never be tested for HIV infection?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65d12ae11930410b13000030",
+            "body": "Can fingolimod be used during pregnancy?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65f38059c4010b4d7800000e",
+            "body": "What does capnography measure?",
+            "type": "factoid",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65cfd68a1930410b13000021",
+            "body": "Is sectoral Heterochromia associated with Crohn's disease?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65f377d5c4010b4d78000009",
+            "body": "List the most effective treatment methods for Madelung disease.",
+            "type": "list",
+            "output_answer": "[\"lipectomy\", \"liposuction\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "lipectomy"
+                ],
+                [
+                    "liposuction"
+                ]
+            ]
+        },
+        {
+            "id": "65f847c5c4010b4d78000046",
+            "body": "What are common side effects of the progesterone-only pill (POP)?",
+            "type": "list",
+            "output_answer": "[\"abnormal bleeding patterns\", \"increased frequency of bleeding\", \"lengthened cycles\", \"breakthrough bleeding\", \"spotting\", \"prolonged bleeding\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "abnormal bleeding patterns"
+                ],
+                [
+                    "increased frequency of bleeding"
+                ],
+                [
+                    "lengthened cycles"
+                ],
+                [
+                    "breakthrough bleeding"
+                ],
+                [
+                    "spotting"
+                ],
+                [
+                    "prolonged bleeding"
+                ]
+            ]
+        },
+        {
+            "id": "65f84aa5c4010b4d78000047",
+            "body": "What are the most common symptoms of fibroids?",
+            "type": "list",
+            "output_answer": "[{\"entities\": [\"heavy menstrual bleeding\", \"pelvic pressure or pain\", \"gastrointestinal and genitourinary changes\", \"abnormal menstrual bleeding\", \"proliferation of the abdomen\", \"pain during intercourse\", \"bladder/bowel dysfunction\", \"urinary incontinence/retention\", \"constipation\"]}])",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "heavy menstrual bleeding"
+                ],
+                [
+                    "pelvic pressure or pain"
+                ],
+                [
+                    "gastrointestinal and genitourinary changes"
+                ],
+                [
+                    "abnormal menstrual bleeding"
+                ],
+                [
+                    "proliferation of the abdomen"
+                ],
+                [
+                    "pain during intercourse"
+                ],
+                [
+                    "bladder/bowel dysfunction"
+                ],
+                [
+                    "urinary incontinence/retention"
+                ],
+                [
+                    "constipation"
+                ]
+            ]
+        },
+        {
+            "id": "65cfa22b1930410b1300000c",
+            "body": "What is the target of Selpercatinib?",
+            "type": "factoid",
+            "output_answer": "[\"RET\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "RET"
+                ]
+            ]
+        },
+        {
+            "id": "65f84535c4010b4d78000044",
+            "body": "What are the transmission mechanisms of the human Ebola infection?",
+            "type": "list",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "65f039fdc4010b4d78000002",
+            "body": "What is the vector for coxiella burnetii transmission?",
+            "type": "factoid",
+            "output_answer": "[\"ticks\", \"amblyomma sculptum ticks\", \"ixodes ricinus\", \"dermacentor marginatus\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "ticks",
+                    "amblyomma sculptum ticks",
+                    "ixodes ricinus",
+                    "dermacentor marginatus"
+                ]
+            ]
+        },
+        {
+            "id": "65f82fe1c4010b4d7800003f",
+            "body": "Methotrexate is an antifolate medication.",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "65d131451930410b13000034",
+            "body": "Is GC1118 effective for glioblastoma?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65f70d71c4010b4d7800001e",
+            "body": "Is COACH syndrome a rare autosomal recessive genetic disease characterized by liver fibrosis and related to portal hypertension.",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "65f86f62c4010b4d7800005c",
+            "body": "Which symptoms could indicate depression in young children?",
+            "type": "list",
+            "output_answer": "[]\n```json\n{}\n```",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "65d136bc1930410b1300003c",
+            "body": "What are active ingredients of Paxlovid?",
+            "type": "list",
+            "output_answer": "[\"nirmatrelvir\", \"ritonavir\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "nirmatrelvir"
+                ],
+                [
+                    "ritonavir"
+                ]
+            ]
+        },
+        {
+            "id": "65f37997c4010b4d7800000b",
+            "body": "What is an Albatross plot used for?",
+            "type": "factoid",
+            "output_answer": "[]\n```json\n{}\n```",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65f85df3c4010b4d78000051",
+            "body": "What should you do if you find an individual that you suspect has overdosed?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "65cfd13f1930410b1300001d",
+            "body": "Can syphilis cause proctitis?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "65f493cac4010b4d78000012",
+            "body": "What disorder is considered off label use for domperidone?",
+            "type": "factoid",
+            "output_answer": "[\"lactation\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "lactation"
+                ]
+            ]
+        },
+        {
+            "id": "65f8721ec4010b4d7800005d",
+            "body": "Which neurotransmitters are thought to play a role in obsessive compulsive disorder?",
+            "type": "list",
+            "output_answer": "[\"serotonin\", \"dopamine\", \"glutamate\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "serotonin"
+                ],
+                [
+                    "dopamine"
+                ],
+                [
+                    "glutamate"
+                ]
+            ]
+        },
+        {
+            "id": "65d126d21930410b1300002c",
+            "body": "Can denosumab cause jaw necrosis?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "65f85ec7c4010b4d78000052",
+            "body": "What is the most common surgical treatment for hydrocephalus?",
+            "type": "factoid",
+            "output_answer": "[\"ventriculoperitoneal shunt\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "ventriculoperitoneal shunt"
+                ]
+            ]
+        },
+        {
+            "id": "65d126471930410b1300002b",
+            "body": "Is Upadacitinib effective for Crohn’s Disease?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "65f0369bc4010b4d78000001",
+            "body": "Is melatonin beneficial in the treatment of in cerebral ischemia-reperfusion injury:",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "65f84b5ec4010b4d78000048",
+            "body": "Are Hemoglobin-Based Oxygen Carriers approved for human use?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65cfa37c1930410b1300000d",
+            "body": "Gantenerumab was developed for treatment of which disease?",
+            "type": "factoid",
+            "output_answer": "[{\"entity\": \"Alzheimer disease\"}]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "entity",
+                    "Alzheimer disease"
+                ]
+            ]
+        },
+        {
+            "id": "65f70a55c4010b4d7800001b",
+            "body": "Please list the congenital fibrinogen disorders.",
+            "type": "list",
+            "output_answer": "[\"Afibrinogenemia\", \"Hypofibrinogenemia\", \"Dysfibrinogenemia\", \"Hypodysfibrinogenemia\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "Afibrinogenemia"
+                ],
+                [
+                    "Hypofibrinogenemia"
+                ],
+                [
+                    "Dysfibrinogenemia"
+                ],
+                [
+                    "Hypodysfibrinogenemia"
+                ]
+            ]
+        },
+        {
+            "id": "65f82218c4010b4d7800003e",
+            "body": "What are the current indications for thalidomide?",
+            "type": "list",
+            "output_answer": "[\"erythema nodosum leprosum\", \"aphthous stomatitis\", \"graft-versus-host disease\", \"cutaneous sarcoidosis\", \"Kaposi sarcoma\", \"lupus erythematosus\", \"multiple myeloma\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "erythema nodosum leprosum"
+                ],
+                [
+                    "aphthous stomatitis"
+                ],
+                [
+                    "graft-versus-host disease"
+                ],
+                [
+                    "cutaneous sarcoidosis"
+                ],
+                [
+                    "Kaposi sarcoma"
+                ],
+                [
+                    "lupus erythematosus"
+                ],
+                [
+                    "multiple myeloma"
+                ]
+            ]
+        },
+        {
+            "id": "65d1357c1930410b13000039",
+            "body": "What is the administration route of zavegepant?",
+            "type": "factoid",
+            "output_answer": "[\"intranasal\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "intranasal"
+                ]
+            ]
+        },
+        {
+            "id": "65f86e06c4010b4d7800005a",
+            "body": "Is peritoneal dialysis the best option for infants with kidney failure?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65ce88b71930410b13000001",
+            "body": "Is Lecanemab approved for Alzheimer’s Disease?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "65f5a3efc4010b4d78000017",
+            "body": "Can Ultrasonography be used to detect tumors in dogs and cats?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "65f82058c4010b4d7800003d",
+            "body": "What is the first line treatment for severe Plasmodium falciparum malaria?",
+            "type": "factoid",
+            "output_answer": "[\"intravenous artesunate\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "intravenous artesunate"
+                ]
+            ]
+        },
+        {
+            "id": "65d1350f1930410b13000038",
+            "body": "Can Rozanolixizumab be used for treatment of multiple sclerosis?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65f77701c4010b4d78000030",
+            "body": "Are FOLFIRINOX plus Bevacizumab the preferred therapy for left-sided RAS wild type advanced colorectal cancer with aggressive clinical presentation?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "66097092fdcbea915f000010",
+            "body": "Amyloid-β is associated with what diseases?",
+            "type": "list",
+            "output_answer": "[\"Alzheimer's disease\", \"Parkinson's disease\", \"dementia with Lewy bodies\", \"age-related macular degeneration\", \"glaucoma\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "Alzheimer's disease"
+                ],
+                [
+                    "Parkinson's disease"
+                ],
+                [
+                    "dementia with Lewy bodies"
+                ],
+                [
+                    "age-related macular degeneration"
+                ],
+                [
+                    "glaucoma"
+                ]
+            ]
+        },
+        {
+            "id": "660c0071fdcbea915f00002b",
+            "body": "Which tick genus is the vector for Lyme disease?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "660c44f7fdcbea915f000033",
+            "body": "Can lactate levels predict mortality in paediatric sepsis?",
+            "type": "yesno",
+            "output_answer": "yes\nBased on the data provided, lactate levels can predict mortality in paediatric sepsis. Several studies indicate that higher lactate levels are associated with worse outcomes. For instance, one study found that 24-hour lactate levels were higher among non-survivors compared to survivors and that lactate levels positively correlated with severity of illness scores like pSOFA, PRISM, and PIM2. Another study noted that children able to clear lactate within 8 hours had an improved chance of survival, while those with lactate levels that did not decrease significantly had a higher risk of death. Additionally, elevated lactate levels at admission were associated with higher mortality rates in neonatal sepsis.",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "65f7764fc4010b4d7800002f",
+            "body": "Which gene mutations confer acquired resistance to anti-EGFR therapy in advance colorectal cancer?",
+            "type": "list",
+            "output_answer": "[\"PIK3CA\", \"KRAS\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "PIK3CA"
+                ],
+                [
+                    "KRAS"
+                ]
+            ]
+        },
+        {
+            "id": "66080f4cfdcbea915f000004",
+            "body": "List the methods for pectus excavatum repair?",
+            "type": "list",
+            "output_answer": "[\"Ravitch's technique\", \"Nuss procedure\", \"minimally invasive endoscopic pectus excavatum repair\", \"silastic molding method\", \"combined Ravitch and Nuss procedure\", \"sternocostal elevation\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "Ravitch's technique"
+                ],
+                [
+                    "Nuss procedure"
+                ],
+                [
+                    "minimally invasive endoscopic pectus excavatum repair"
+                ],
+                [
+                    "silastic molding method"
+                ],
+                [
+                    "combined Ravitch and Nuss procedure"
+                ],
+                [
+                    "sternocostal elevation"
+                ]
+            ]
+        },
+        {
+            "id": "660c3591fdcbea915f000031",
+            "body": "Do elevated levels of procalcitonin help in diagnosing paediatric sepsis?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "66088ffafdcbea915f00000f",
+            "body": "In what part of the body would a periprosthetic infection occur?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65f86b3ac4010b4d78000058",
+            "body": "What is the estimated impact of social determinants of health on health outcomes?",
+            "type": "factoid",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "660c49f4fdcbea915f000034",
+            "body": "Should corticosteroids be considered as adjunctive therapy in paediatric sepsis management?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65cfdc561930410b13000026",
+            "body": "JYNNEOS vaccine is protective against which diseases?",
+            "type": "list",
+            "output_answer": "[{\"entities\": [\"monkeypox\", \"smallpox\"]}]\n}```\n```json\n{\"entities\": [\"monkeypox\", \"smallpox\"]}\n```",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "monkeypox"
+                ],
+                [
+                    "smallpox"
+                ]
+            ]
+        },
+        {
+            "id": "65f7798dc4010b4d78000038",
+            "body": "What is the optimal antiemetic treatment for FOLFIRINOX chemotherapy?",
+            "type": "factoid",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65f857b0c4010b4d7800004f",
+            "body": "Please list the symptoms of Havana syndrome",
+            "type": "list",
+            "output_answer": "[\"tinnitus\", \"visual problems\", \"vertigo\", \"cognitive difficulties\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "tinnitus"
+                ],
+                [
+                    "visual problems"
+                ],
+                [
+                    "vertigo"
+                ],
+                [
+                    "cognitive difficulties"
+                ]
+            ]
+        },
+        {
+            "id": "660c0a85fdcbea915f000030",
+            "body": "What are common complications of prematurity for babies?",
+            "type": "list",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "660712a1fdcbea915f000003",
+            "body": "Can Connexin hemi channels be used for drug delivery?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "660c02e1fdcbea915f00002c",
+            "body": "Pasteurization kills Mycobacterium tuberculosis from infected cattle.",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65cfd3961930410b1300001f",
+            "body": "TAK-994 is developed for which disease?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "66099b20fdcbea915f000021",
+            "body": "Is high blood pressure a clinical biomarker of response to Bevacizumab in advanced colorectal cancer patients?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "660d6cc3fdcbea915f00003d",
+            "body": "Is gout a very common inflammatory arthritis, which is caused by hyperbilirubinemia?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65cfce461930410b1300001a",
+            "body": "What receptors are targeted by Retatrutide?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "65cfdaae1930410b13000025",
+            "body": "What disease can be treatment with Bulevirtide?",
+            "type": "factoid",
+            "output_answer": "[\"Hepatitis D virus infection\"]\n```json\n{\"entities\": [\"Hepatitis D virus infection\"]}\n```",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "Hepatitis D virus infection"
+                ]
+            ]
+        },
+        {
+            "id": "65f7785dc4010b4d78000033",
+            "body": "Which initial chemotherapy regimen is the most appropriate in Total Neoadjuvant Therapy (TNT) for locally advanced rectal cancer patients?",
+            "type": "factoid",
+            "output_answer": "[\"modified FOLFOX6\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "modified FOLFOX6"
+                ]
+            ]
+        },
+        {
+            "id": "66088d66fdcbea915f00000c",
+            "body": "In what part of the cell would a SNARE Soluble N-ethylmaleimide-sensitive factor attachment protein receptors (SNAREs) be found",
+            "type": "factoid",
+            "output_answer": "[\"membrane\", \"vesicle\", \"cytoplasm\", \"endoplasmic reticulum\", \"nucleus\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "membrane",
+                    "vesicle",
+                    "cytoplasm",
+                    "endoplasmic reticulum",
+                    "nucleus"
+                ]
+            ]
+        },
+        {
+            "id": "65cf6ae91930410b13000007",
+            "body": "What disease is treated with Teplizumab?",
+            "type": "factoid",
+            "output_answer": "[\"type 1 diabetes\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "type 1 diabetes"
+                ]
+            ]
+        },
+        {
+            "id": "65f7778fc4010b4d78000031",
+            "body": "Is Trifluridine/Tipiracil a preferential treatment over Regorafenib in elderly colorectal cancer patients?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "660d6a97fdcbea915f00003c",
+            "body": "Without immunization, rabies is a lethal disease.",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65cfaf7e1930410b13000016",
+            "body": "What is the target of Divarasib?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65f77a71c4010b4d7800003b",
+            "body": "What is the appropriate treatment in HER2Neu amplificated refractory advanced colorectal cancer patients?",
+            "type": "factoid",
+            "output_answer": "[\"trastuzumab deruxtecan\"]\n[\"sotorasib\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "trastuzumab deruxtecan"
+                ]
+            ]
+        },
+        {
+            "id": "660d2d6afdcbea915f00003b",
+            "body": "What are atypical symptoms of gluten allergy?",
+            "type": "list",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "65d136081930410b1300003a",
+            "body": "Is transdermal glyceryl trinitrate effective for stroke?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65d375011930410b1300004a",
+            "body": "What are active ingredients of Xultophy pill?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "65f775e8c4010b4d7800002d",
+            "body": "Should UGT1A1 alteration be routinely determined in colorectal cancer patients?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "66088b42fdcbea915f000009",
+            "body": "Please list sources of orthobiologics",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "65f84eadc4010b4d7800004c",
+            "body": "Are advanced directives an expression of the patient's wishes for future care in case they become cognitively impaired or find themselves in critical condition?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65cf69541930410b13000006",
+            "body": "Which drugs were tested in the CodeBreaK 300 clinical trial?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "65f779edc4010b4d78000039",
+            "body": "Is surgical resection an appropriate treatment over immunotherapy in MSI-H locally advanced rectal cancer patients?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "66081d61fdcbea915f000007",
+            "body": "Is One-carbon (1C)  metabolism associated with folate?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "660bb7f9fdcbea915f000029",
+            "body": "What type of drug is administered to the mother for the prevention of lung immaturity when a preterm delivery is anticipated?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65d132101930410b13000035",
+            "body": "Is Depatuxizumab mafodotin effective for glioblastoma?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "66099af7fdcbea915f000020",
+            "body": "Is the use of Bevacizumab indicated after progression to a previous regimen with Bevacizumab in advanced colorectal cancer patients?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "65f48fa2c4010b4d7800000f",
+            "body": "Please list the psychoactive drugs used to treat mental health disorders.",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "660d2299fdcbea915f000038",
+            "body": "List of attenuated viral vaccines still in use.",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "66099c01fdcbea915f000023",
+            "body": "What is the most appropriate dose of capecitabine in concurrent treatment with radiotherapy for neoadjuvant therapy of locally advanced rectal cancer patients?",
+            "type": "factoid",
+            "output_answer": "[\"capecitabine 825mg/m2 twice daily for 7 days/week\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "capecitabine 825mg/m2 twice daily for 7 days/week"
+                ]
+            ]
+        },
+        {
+            "id": "6609827afdcbea915f000011",
+            "body": "Is Tako-Tsubo syndrome is an irreversible form of an acute stress-related cardiomyopathy?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "660d7491fdcbea915f000041",
+            "body": "New treatments in multiple sclerosis.",
+            "type": "list",
+            "output_answer": "[\"natalizumab\", \"antiCD20s\", \"oral DMTs\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "natalizumab"
+                ],
+                [
+                    "antiCD20s"
+                ],
+                [
+                    "oral DMTs"
+                ]
+            ]
+        },
+        {
+            "id": "65cfcc8f1930410b13000018",
+            "body": "Is UGT1A1 implicated in Crigler–Najjar syndrome?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "65f77596c4010b4d7800002c",
+            "body": "Should PDYD polymorphism determination be routinely performed in patients with colorectal cancer patients?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65d372231930410b13000047",
+            "body": "Does Lenvatinib plus pembrolizumab improve prognosis of advanced hepatocellular carcinoma?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "660998d1fdcbea915f000013",
+            "body": "What molecular subtypes of colon cancer are associated to smoking?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "660877c8fdcbea915f000008",
+            "body": "What part of the cell is mitophagy associated with?",
+            "type": "factoid",
+            "output_answer": "[\"mitochondria\", \"autophagosomes\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "mitochondria",
+                    "autophagosomes"
+                ]
+            ]
+        },
+        {
+            "id": "65cfd02e1930410b1300001c",
+            "body": "What channel is targeted by VX-548?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "66099926fdcbea915f000016",
+            "body": "What is the most effective drug for oxaliplatin-induced neuropathy?",
+            "type": "factoid",
+            "output_answer": "[\"duloxetine\"]\n```json\n{\"entities\": [\"duloxetine\"]}\n```",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "duloxetine"
+                ]
+            ]
+        },
+        {
+            "id": "65f37bb1c4010b4d7800000d",
+            "body": "What is Microcoring used for",
+            "type": "factoid",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "660bbc09fdcbea915f00002a",
+            "body": "What symptoms can be expected in women suffering from endometriosis?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "65f778dbc4010b4d78000035",
+            "body": "Is watch-and-wait policy after neoadjuvant therapy a cost-effective policy for locally advanced rectal cancer patients?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "66088ddbfdcbea915f00000d",
+            "body": "Are senolytics used to treat cardiovascular disease?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "660c0486fdcbea915f00002d",
+            "body": "What is the cause of Brazilian spotted fever?",
+            "type": "factoid",
+            "output_answer": "[\"Rickettsia rickettsii\"]\n",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "Rickettsia rickettsii"
+                ]
+            ]
+        },
+        {
+            "id": "65cfcf201930410b1300001b",
+            "body": "Can Nitrofurantoin cause Lung Injury?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "66099a25fdcbea915f00001e",
+            "body": "What is the first-line treatment for BRAF mutated advanced colorectal cancer patients?",
+            "type": "factoid",
+            "output_answer": "[]\nBased on the provided data, there is no explicit mention of the first-line treatment for BRAF mutated advanced colorectal cancer patients. The data focuses on various aspects of colorectal cancer, including screening, palliative chemotherapy, and the role of certain genes like KRAS and CDKN2/p16/RB in colorectal cancer, but does not specify the first-line treatment for BRAF mutated patients.",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65f1d9f8c4010b4d78000006",
+            "body": "List the causes of Restrictive cardiomyopathy (RCM)",
+            "type": "list",
+            "output_answer": "[\"mitochondrial gene 13513G>A mutation\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "mitochondrial gene 13513G>A mutation"
+                ]
+            ]
+        },
+        {
+            "id": "65d12c451930410b13000032",
+            "body": "Is Omaveloxolone effective for Friedreich Ataxia?",
+            "type": "yesno",
+            "output_answer": "the provided data does not contain any information about omaveloxolone or its effectiveness for friedreich ataxia. therefore, i cannot answer the question based on the given data.",
+            "ideal_answer": "",
+            "exact_answer": "errors!!!"
+        },
+        {
+            "id": "6609997ffdcbea915f000019",
+            "body": "What non-colonic tumors are associated with Lynch syndrome?",
+            "type": "list",
+            "output_answer": "[\"endometrial cancer\", \"renal pelvis cancer\", \"ureter cancer\", \"bladder cancer\", \"small intestine cancer\", \"stomach cancer\", \"hepatobiliary tract cancer\", \"prostate cancer\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "endometrial cancer"
+                ],
+                [
+                    "renal pelvis cancer"
+                ],
+                [
+                    "ureter cancer"
+                ],
+                [
+                    "bladder cancer"
+                ],
+                [
+                    "small intestine cancer"
+                ],
+                [
+                    "stomach cancer"
+                ],
+                [
+                    "hepatobiliary tract cancer"
+                ],
+                [
+                    "prostate cancer"
+                ]
+            ]
+        },
+        {
+            "id": "65d3715b1930410b13000046",
+            "body": "Is Durvalumab effective for locally advanced cervical cancer?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "66099c57fdcbea915f000025",
+            "body": "What clinical conditions influence the prognostic after the liver metastasis resection from colorectal cancer patients?",
+            "type": "list",
+            "output_answer": "[\"regional lymph node metastatic status\", \"pathological margin\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "regional lymph node metastatic status"
+                ],
+                [
+                    "pathological margin"
+                ]
+            ]
+        },
+        {
+            "id": "6616547dfdcbea915f00004f",
+            "body": "What is the prevalence of neurofibromatosis?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "661d96c9eac11fad33000028",
+            "body": "What is the key transcription factor for melanocyte development and differentiation?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "661d48a2eac11fad33000018",
+            "body": "What is the cause of Phenylketonuria (PKU)?",
+            "type": "factoid",
+            "output_answer": "[\"mutations in the PAH gene\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "mutations in the PAH gene"
+                ]
+            ]
+        },
+        {
+            "id": "65cebc0c1930410b13000003",
+            "body": "Which disease is treated with nirsevimab?",
+            "type": "factoid",
+            "output_answer": "[\"RSV\"]\n```json\n{\"entities\": [\"RSV\"]}\n```",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "RSV"
+                ]
+            ]
+        },
+        {
+            "id": "661a6733fdcbea915f00005c",
+            "body": "Is Loeys-Dietz syndrome (LDS) associated with Aortic Aneurysm?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "65cfcd541930410b13000019",
+            "body": "Burrow Ink Test can be used to diagnose which disease?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "6609994bfdcbea915f000017",
+            "body": "What drugs are effective for the treatment of EGFR inhibitors skin rash?",
+            "type": "list",
+            "output_answer": "[\"tetracycline\", \"minocycline\", \"doxycycline\", \"topical tetracycline\", \"clindamycin\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "tetracycline"
+                ],
+                [
+                    "minocycline"
+                ],
+                [
+                    "doxycycline"
+                ],
+                [
+                    "topical tetracycline"
+                ],
+                [
+                    "clindamycin"
+                ]
+            ]
+        },
+        {
+            "id": "660810a0fdcbea915f000005",
+            "body": "Is MIRPE, also known as the Nuss procedure, considered to be an very invasive form of surgical treatment?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "66154a32fdcbea915f00004b",
+            "body": "What are major complications of mastoiditis?",
+            "type": "list",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "661c41d448a2c27714000009",
+            "body": "Which DNA language models currently exist to model the human genome?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "661d1d2deac11fad33000015",
+            "body": "What biomarkers are used for the identification of neonatal sepsis in low-income countries?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "66099c30fdcbea915f000024",
+            "body": "What clinical indications does the self-expanding colon stent have in colorectal cancer patients?",
+            "type": "list",
+            "output_answer": "[\"malignant colorectal obstruction\", \"palliation\", \"avoidance of emergency surgery\", \"avoidance of colostomy\", \"bridge to surgery\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "malignant colorectal obstruction"
+                ],
+                [
+                    "palliation"
+                ],
+                [
+                    "avoidance of emergency surgery"
+                ],
+                [
+                    "avoidance of colostomy"
+                ],
+                [
+                    "bridge to surgery"
+                ]
+            ]
+        },
+        {
+            "id": "661a624bfdcbea915f00005b",
+            "body": "List the cells which have CD21 on the surface.",
+            "type": "list",
+            "output_answer": "[\"B cells\", \"follicular dendritic cells\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "B cells"
+                ],
+                [
+                    "follicular dendritic cells"
+                ]
+            ]
+        },
+        {
+            "id": "6616a250fdcbea915f000059",
+            "body": "Do PPIs increase the risk of gastric cancer?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "661c414d48a2c27714000007",
+            "body": "Can enhancers act as promoters?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65cfa6201930410b1300000e",
+            "body": "Is Patisiran used for Transthyretin Cardiac Amyloidosis?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65f77a32c4010b4d7800003a",
+            "body": "What are the molecular mechanisms for secondary resistance to Bevacizumab in advanced colorectal cancer patients?",
+            "type": "list",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "661a6a67fdcbea915f00005d",
+            "body": "Does early stage oral squamous cell carcinoma have  good survival rates?",
+            "type": "yesno",
+            "output_answer": "no\nBased on the provided data, there is no specific information about early stage oral squamous cell carcinoma survival rates. The data focuses on various topics like anti-angiogenic therapies, Prader-Willi syndrome, paraoxonase gene polymorphisms, colorectal cancer, and other unrelated conditions. For accurate survival rates of early stage oral squamous cell carcinoma, one would need to refer to studies or databases focused on this specific cancer type.",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65f85fdbc4010b4d78000054",
+            "body": "What is the technique of choice to perform a caesarean section?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "661d9e79fe9d0b3967000001",
+            "body": "Which cell states can exist in melanomas?",
+            "type": "list",
+            "output_answer": "[\"melanocyte\", \"melanocyte stem cell\", \"neural crest-derived melanocytes\", \"crest-like pigmented cells\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "melanocyte"
+                ],
+                [
+                    "melanocyte stem cell"
+                ],
+                [
+                    "neural crest-derived melanocytes"
+                ],
+                [
+                    "crest-like pigmented cells"
+                ]
+            ]
+        },
+        {
+            "id": "661d1c3ceac11fad33000012",
+            "body": "Are there any molecular signatures identified for the differentiation between bacterial and viral infections?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65d1369c1930410b1300003b",
+            "body": "What are active ingredients of Xacduro?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "66099967fdcbea915f000018",
+            "body": "What is the faster length time for oxaliplatin infusion?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "661be55f48a2c27714000003",
+            "body": "What disease is treated by Callosotomy",
+            "type": "factoid",
+            "output_answer": "[\"epilepsy\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "epilepsy"
+                ]
+            ]
+        },
+        {
+            "id": "6614fe3dfdcbea915f000045",
+            "body": "Is there an approved vaccine to prevent Zika virus infection during pregnancy?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "661d20b7eac11fad33000016",
+            "body": "Can cytomegalovirus (CMV) be transmitted via breast milk to premature infants?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65cfcb4c1930410b13000017",
+            "body": "What enzymes are inhibited by Vorasidenib?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "66099a03fdcbea915f00001d",
+            "body": "From what age is it recommended to start population screening for colorectal cancer?",
+            "type": "factoid",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "660d7324fdcbea915f000040",
+            "body": "How many people affected by Parkinson's Disease develop dementia?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "661c3d1448a2c27714000005",
+            "body": "What chromatin signatures are characteristic of active enhancers?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "661d4fabeac11fad3300001c",
+            "body": "What are the types of Ehlers-Danlos Syndrome?",
+            "type": "list",
+            "output_answer": "[\"Type I\", \"Type II\", \"Type III\", \"Type IV\", \"Type VII\", \"Type VIII\", \"Classical\", \"Classical-like\", \"Cardiac-valvular\", \"Vascular\", \"Hypermobile\", \"Arthrochlasia\", \"Dermosparaxis\", \"Kyphoscoliotic\", \"Brittle Cornea Syndrome\", \"Spondylodysplastic\", \"Musculocontractural\", \"Myopathic\", \"Periodontal\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "Type I"
+                ],
+                [
+                    "Type II"
+                ],
+                [
+                    "Type III"
+                ],
+                [
+                    "Type IV"
+                ],
+                [
+                    "Type VII"
+                ],
+                [
+                    "Type VIII"
+                ],
+                [
+                    "Classical"
+                ],
+                [
+                    "Classical-like"
+                ],
+                [
+                    "Cardiac-valvular"
+                ],
+                [
+                    "Vascular"
+                ],
+                [
+                    "Hypermobile"
+                ],
+                [
+                    "Arthrochlasia"
+                ],
+                [
+                    "Dermosparaxis"
+                ],
+                [
+                    "Kyphoscoliotic"
+                ],
+                [
+                    "Brittle Cornea Syndrome"
+                ],
+                [
+                    "Spondylodysplastic"
+                ],
+                [
+                    "Musculocontractural"
+                ],
+                [
+                    "Myopathic"
+                ],
+                [
+                    "Periodontal"
+                ]
+            ]
+        },
+        {
+            "id": "65cfe0381930410b13000029",
+            "body": "Can tacrolimus increase risk of Posterior Reversible Encephalopathy Syndrome?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "660999e7fdcbea915f00001c",
+            "body": "What is the most effective immunotherapy regimen in patients with MSI-H advanced colorectal cancer?",
+            "type": "factoid",
+            "output_answer": "[\"nivolumab plus ipilimumab\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "nivolumab plus ipilimumab"
+                ]
+            ]
+        },
+        {
+            "id": "660d1285fdcbea915f000036",
+            "body": "Inflammatory breast cancer is the most aggressive form of breast cancer.",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "661dc376fe9d0b3967000002",
+            "body": "Is the majority of genetic variation present in the coding regions of the genome?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "661d6252eac11fad33000025",
+            "body": "What is the cause of autosomal dominant Polycystic Kidney Disease?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65d1300e1930410b13000033",
+            "body": "Is zilucoplan effective for myasthenia gravis?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65f77618c4010b4d7800002e",
+            "body": "Which are the clinical indications for the use of Raltitrexed in patients with colorectal cancer?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "661bdc9148a2c27714000001",
+            "body": "Please list the findings in lateral medullary (Wallenberg) syndrome",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "661c424588784bab31000001",
+            "body": "By which method do micro RNAs (miRNAs) primarily aid in transcriptional and post-transcriptional regulation?",
+            "type": "factoid",
+            "output_answer": "```json\n{\"entities\": [\"translational repression\", \"mRNA degradation\", \"transcriptional regulation\"]}\n```",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "translational repression",
+                    "mRNA degradation",
+                    "transcriptional regulation"
+                ]
+            ]
+        },
+        {
+            "id": "661d6473eac11fad33000027",
+            "body": "What is the cause of Autosomal Recessive Polycystic Kidney Disease?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65cf98431930410b1300000b",
+            "body": "What are the targets of Tarlatamab?",
+            "type": "list",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "65f77465c4010b4d78000028",
+            "body": "Is liquid biopsy a cost-effective technique in general population screening for colorectal cancer?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65ef8502dffffb9b6b000003",
+            "body": "What causes Mucormycosis?",
+            "type": "factoid",
+            "output_answer": "[\"fungal infection\", \"molds\", \"soil\", \"decaying vegetation\", \"organic matters\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "fungal infection",
+                    "molds",
+                    "soil",
+                    "decaying vegetation",
+                    "organic matters"
+                ]
+            ]
+        },
+        {
+            "id": "66165f2afdcbea915f000051",
+            "body": "When was the first case of human monkey pox diagnosed?",
+            "type": "factoid",
+            "output_answer": "[\"May 17, 2022\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "May 17, 2022"
+                ]
+            ]
+        },
+        {
+            "id": "661c413f48a2c27714000006",
+            "body": "Does chromatin accessibility affect CRISPR-Cas9 efficiency?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "661d51fdeac11fad3300001d",
+            "body": "What diseases are included in the differential diagnosis of Ehlers-Danlos Syndrome?",
+            "type": "list",
+            "output_answer": "[\"hypermobility spectrum disorders\", \"Marfan syndrome\", \"Loey-Dietz syndrome\", \"Cutis laxa syndromes\", \"autosomal dominant polycystic kidney disease\", \"osteogenesis Imperfecta Type 1\", \"fibromyalgia\", \"depression\", \"chronic fatigue syndrome\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "hypermobility spectrum disorders"
+                ],
+                [
+                    "Marfan syndrome"
+                ],
+                [
+                    "Loey-Dietz syndrome"
+                ],
+                [
+                    "Cutis laxa syndromes"
+                ],
+                [
+                    "autosomal dominant polycystic kidney disease"
+                ],
+                [
+                    "osteogenesis Imperfecta Type 1"
+                ],
+                [
+                    "fibromyalgia"
+                ],
+                [
+                    "depression"
+                ],
+                [
+                    "chronic fatigue syndrome"
+                ]
+            ]
+        },
+        {
+            "id": "65f774a4c4010b4d78000029",
+            "body": "What type of colorectal cancer screening is the most cost-effective for general population?",
+            "type": "factoid",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65f37aeac4010b4d7800000c",
+            "body": "Is Cri du Chat syndrome (CdCS) a genetic syndrome caused by deletions in the long arm of chromosome 5",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "661d2428eac11fad33000017",
+            "body": "Is ICD-10 encoding sensitive for capturing paediatric sepsis?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65cf96ce1930410b1300000a",
+            "body": "Is Amivantamab used for non–small-cell lung cancer?",
+            "type": "yesno",
+            "output_answer": "yes",
+            "ideal_answer": "",
+            "exact_answer": "yes"
+        },
+        {
+            "id": "65f7754ec4010b4d7800002b",
+            "body": "Do very elderly stage III colorectal cancer patients present clinical benefit from oxaliplatin-based adjuvant chemotherapy?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "660982eefdcbea915f000012",
+            "body": "Where would Odocoileus virginianus be found?",
+            "type": "factoid",
+            "output_answer": "[\"United States\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "United States"
+                ]
+            ]
+        },
+        {
+            "id": "661d56c0eac11fad3300001f",
+            "body": "Is there a specific cure for Ehlers-Danlos Syndrome?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65cfa8f81930410b13000010",
+            "body": "What mutation is associated with the VEXAS syndrome?",
+            "type": "factoid",
+            "output_answer": "[\"UBA1 mutation\"]\n[\"p.Met41Val mutation\"]\n[\"c.121 A>T; p.Met41Leu\"]\n[\"c.119 G>C; p.Gly40Ala\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "c.121 A>T; p.Met41Leu"
+                ]
+            ]
+        },
+        {
+            "id": "65f774dec4010b4d7800002a",
+            "body": "Should routine PET-CT scan be indicated in the initial evaluation of locally advanced rectal cancer patients?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65f03163dffffb9b6b000005",
+            "body": "Please list the selective endothelin A receptor antagonists",
+            "type": "list",
+            "output_answer": "```json\n{\"entities\": [\"YM598\", \"BQ123\", \"BQ788\"]}\n```",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "YM598"
+                ],
+                [
+                    "BQ123"
+                ],
+                [
+                    "BQ788"
+                ]
+            ]
+        },
+        {
+            "id": "661d5c97eac11fad33000021",
+            "body": "What is the cause of Prader-Willi Syndrome?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65cfe1d21930410b1300002a",
+            "body": "Can capivasertib be used for breast cancer?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65f777d7c4010b4d78000032",
+            "body": "What is the optimal timing of surgical resection after a neoadjuvant chemoradiotherapy for locally advanced rectal cancer patients?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "660812b4fdcbea915f000006",
+            "body": "Is Kagami-Ogata associated with a deletion in chromosome 14",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "6614f672fdcbea915f000042",
+            "body": "Are children affected by multiple sclerosis?",
+            "type": "factoid",
+            "output_answer": "[\"children\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "children"
+                ]
+            ]
+        },
+        {
+            "id": "661d4aa3eac11fad33000019",
+            "body": "What are the current approaches for gene therapy for Phenylketonuria (PKU)?",
+            "type": "list",
+            "output_answer": "[\"enzyme replacement via virus-mediated gene transfer\", \"transplantation of donor liver\", \"recombinant PAH protein\", \"enzyme substitution using phenylalanine ammonia lyase\", \"chemical chaperones\", \"nonsense read-through agents\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "enzyme replacement via virus-mediated gene transfer"
+                ],
+                [
+                    "transplantation of donor liver"
+                ],
+                [
+                    "recombinant PAH protein"
+                ],
+                [
+                    "enzyme substitution using phenylalanine ammonia lyase"
+                ],
+                [
+                    "chemical chaperones"
+                ],
+                [
+                    "nonsense read-through agents"
+                ]
+            ]
+        },
+        {
+            "id": "65d134bd1930410b13000037",
+            "body": "What disease can be treated with Trofinetide?",
+            "type": "factoid",
+            "output_answer": "[]\n```json\n{}\n```",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65f7789dc4010b4d78000034",
+            "body": "Which is the most reliable liquid biopsy technique after complete resection of  colorectal cancer metastases?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65f59e46c4010b4d78000015",
+            "body": "Where is the tumor of follicular infundibulum usually found?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "661d4c2eeac11fad3300001a",
+            "body": "What is the cause of Rett Syndrome?",
+            "type": "factoid",
+            "output_answer": "[\"mutations in the MECP2 gene\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "mutations in the MECP2 gene"
+                ]
+            ]
+        },
+        {
+            "id": "662fc44b187cba990d000015",
+            "body": "What are the indicated prophylaxis treatments for acute cholinergic syndrome secondary to irinotecan?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "661688cefdcbea915f000053",
+            "body": "What cancers are associated with human papilloma virus?",
+            "type": "list",
+            "output_answer": "[\"anogenital cancer\", \"cervical cancer\", \"vaginal cancer\", \"vulvar cancer\", \"penile cancer\", \"anal cancer\", \"oropharyngeal cancer\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "anogenital cancer"
+                ],
+                [
+                    "cervical cancer"
+                ],
+                [
+                    "vaginal cancer"
+                ],
+                [
+                    "vulvar cancer"
+                ],
+                [
+                    "penile cancer"
+                ],
+                [
+                    "anal cancer"
+                ],
+                [
+                    "oropharyngeal cancer"
+                ]
+            ]
+        },
+        {
+            "id": "66300f53187cba990d00001d",
+            "body": "Which vaccines are safe to be administered for all pregnancies?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "65d36e761930410b13000044",
+            "body": "What is the use of lebrikizumab?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "662fc981187cba990d000018",
+            "body": "Is CT colonography a cost-effective test for colorectal cancer screening?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "662cf888187cba990d000002",
+            "body": "is Cryoglobulinemic vasculitis (CV), also known as mixed cryoglobulinemic syndrome (MCS), a systemic vasculitis that affects large blood vessels.",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "66155e7dfdcbea915f00004c",
+            "body": "Consequences for the newborn of infection by Zika virus during pregnancy.",
+            "type": "list",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "66302090187cba990d00002a",
+            "body": "Which are the key transcription factors known to drive glioma progression and therapy resistance?",
+            "type": "list",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "662e29f9187cba990d00000a",
+            "body": "What are the genotypes of Japanese Encephalitis Virus (JEV)?",
+            "type": "list",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "65d373151930410b13000048",
+            "body": "What medication were tested in the TRICOTEL trial?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "66214ff0b9f8b89d7e000006",
+            "body": "What are the most frequent side effects of regorafenib?",
+            "type": "list",
+            "output_answer": "[\"hand-foot syndrome\", \"increased aspartate aminotransferase\", \"increased alanine aminotransferase\", \"increased bilirubin\", \"neutropenia\", \"leukopenia\", \"anemia\", \"nausea\", \"febrile neutropenia\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "hand-foot syndrome"
+                ],
+                [
+                    "increased aspartate aminotransferase"
+                ],
+                [
+                    "increased alanine aminotransferase"
+                ],
+                [
+                    "increased bilirubin"
+                ],
+                [
+                    "neutropenia"
+                ],
+                [
+                    "leukopenia"
+                ],
+                [
+                    "anemia"
+                ],
+                [
+                    "nausea"
+                ],
+                [
+                    "febrile neutropenia"
+                ]
+            ]
+        },
+        {
+            "id": "662cf8db187cba990d000003",
+            "body": "Is Periostin a novel biomarker of TH2-driven asthma?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "663020de187cba990d00002c",
+            "body": "What tumor suppressor genes are commonly affected by glioblastoma mutations or deletions?",
+            "type": "list",
+            "output_answer": "[{\"entities\": [\"CDKN2/p16\", \"RB\"]}]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "CDKN2/p16"
+                ],
+                [
+                    "RB"
+                ]
+            ]
+        },
+        {
+            "id": "6630211d187cba990d00002d",
+            "body": "Is there an association between specific genotypes and the risk of ASD for Duchenne Muscular Dystrophy?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65d144b81930410b13000041",
+            "body": "Coffee Bean Sign is characteristic to which disease?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "662cfc88187cba990d000008",
+            "body": "What process does tRNA nucleotidyl transferase 1 (TRNT1)  catalyze?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "6614f810fdcbea915f000043",
+            "body": "What are the causes for heart and lung transplantation in children?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "662edc6f187cba990d00000c",
+            "body": "Can enhancer-promoter interactions form independently of genomic distance?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "66300d3e187cba990d00001b",
+            "body": "What is the prevalence of intellectual developmental disorders in Becker Muscular Dystrophy?",
+            "type": "factoid",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65cfdf1c1930410b13000028",
+            "body": "Mutation of which gene was implicated in Disabling pansclerotic morphea?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "662fc122187cba990d000012",
+            "body": "Does physical exercise reduce the risk of recurrence from colorectal cancer?",
+            "type": "yesno",
+            "output_answer": "the provided data does not contain information on the relationship between physical exercise and the risk of recurrence from colorectal cancer. therefore, i cannot answer the question based on the given data.",
+            "ideal_answer": "",
+            "exact_answer": "errors!!!"
+        },
+        {
+            "id": "662a4b08b9f8b89d7e00000b",
+            "body": "Oxysterol is produced by the oxidation of what waxy, fat-like substance made in the liver?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "65f84c78c4010b4d78000049",
+            "body": "Is bowel transplantation commonly performed in patients with severe gastrointestinal disease?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "6630154c187cba990d000021",
+            "body": "Which chromosome is most commonly affected by loss of heterozygosity in glioblastoma?",
+            "type": "factoid",
+            "output_answer": "[\"9p\"]\n```json\n{\"entities\": [\"9p\"]}\n```",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "9p"
+                ]
+            ]
+        },
+        {
+            "id": "65d12a181930410b1300002f",
+            "body": "Can fluoroquinolones be used for patient with myasthenia gravis?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "66099eb9fdcbea915f000026",
+            "body": "Are BRAF V600E mutation associated to worse prognosis in colorectal cancer patients?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "663016bb187cba990d000023",
+            "body": "Which genetic alteration is most commonly associated with the classical subtype of glioblastoma?",
+            "type": "factoid",
+            "output_answer": "```json\n[\"CDKN2/p16 or RB alterations\"]\n```",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "CDKN2/p16 or RB alterations"
+                ]
+            ]
+        },
+        {
+            "id": "66302487187cba990d000031",
+            "body": "What is PUL-2 in Duchenne Muscular Dystrophy?",
+            "type": "factoid",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "66099907fdcbea915f000015",
+            "body": "What is the average median survival for advanced colorectal cancer patients?",
+            "type": "factoid",
+            "output_answer": "[]\nExplanation: The provided data does not contain direct information about the average median survival for advanced colorectal cancer patients. Each dataset focuses on different aspects of colorectal cancer or related conditions but does not provide a comprehensive statistical measure of median survival for advanced stages of the disease. Therefore, it is not possible to extract an answer directly from the given information.",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "6616a122fdcbea915f000058",
+            "body": "Has statin use been associated with a higher risk of dementia?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "6630254b187cba990d000032",
+            "body": "Is DNA methylation always associated with gene silencing?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "66302174187cba990d00002e",
+            "body": "Are there any digital biomarkers for Duchenne Muscular Dystrophy?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "66099ba9fdcbea915f000022",
+            "body": "Is FOLFIRI plus Aflibercept a cost-effective treatment in patients with advanced colorectal caner?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "662cf96f187cba990d000004",
+            "body": "Please list some treatment options for bone marrow edema syndrome,",
+            "type": "list",
+            "output_answer": "[\"physical modalities\", \"pharmacological options\", \"surgical therapy\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "physical modalities"
+                ],
+                [
+                    "pharmacological options"
+                ],
+                [
+                    "surgical therapy"
+                ]
+            ]
+        },
+        {
+            "id": "66150639fdcbea915f000047",
+            "body": "What is the immediate treatment after a sexual assault?",
+            "type": "list",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "663020d7187cba990d00002b",
+            "body": "Is there an association between specific genotypes and the risk of ADHD for Duchenne Muscular Dystrophy?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65cfd8551930410b13000023",
+            "body": "Is vemurafenib–cobimetinib promising for craniopharyngioma?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "662cfbf5187cba990d000007",
+            "body": "Where in the body would the globus pallidus be found?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "66151045fdcbea915f000048",
+            "body": "What is the approximate prevalence of autoimmune diseases?",
+            "type": "factoid",
+            "output_answer": "[]\n```json\n{}\n```",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "66301fcb187cba990d000029",
+            "body": "Is there an association between specific genotypes and the risk of neurodevelopmental disorders for Becker Muscular Dystrophy?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "65d375b31930410b1300004b",
+            "body": "What medication are included in the Juvisync pill?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "66214cc6b9f8b89d7e000003",
+            "body": "Is fish intake a protective factor against colorectal cancer?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "66156200fdcbea915f00004d",
+            "body": "What is the gold standard for a diagnosis of narcolepsy?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "6630390b187cba990d000035",
+            "body": "Which receptor tyrosine kinase is commonly mutated or amplified in pediatric glioma cases?",
+            "type": "factoid",
+            "output_answer": "[\"RET\"]\n",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "RET"
+                ]
+            ]
+        },
+        {
+            "id": "66300c23187cba990d00001a",
+            "body": "Can procalcitonin be used as a predictor for mortality in paediatric sepsis?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "66214c5db9f8b89d7e000002",
+            "body": "What is the race with the highest incidence of colorectal cancer?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "662cfd21187cba990d000009",
+            "body": "LRP6 is a member of what  superfamily of cell-surface receptors?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "661686e4fdcbea915f000052",
+            "body": "List of major risks of intrauterine device.",
+            "type": "list",
+            "output_answer": "[]\n```\n以人民为本的回答是，提供的数据表格中并没有关于宫内节育器（IUD）相关的主要风险的信息。因此，无法从给定的数据中列出宫内节育器的主要风险。如果您需要这方面的信息，请提供相关的数据表格或来源。",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "66301e04187cba990d000027",
+            "body": "What are episignatures?",
+            "type": "factoid",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "66215690b9f8b89d7e00000a",
+            "body": "Is chemotherapy an effective treatment for patients with advance colorectal cancer and poor performance status (ECOG/PS >1)",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "662fbec6187cba990d00000f",
+            "body": "What are the clinical indication for Transarterial Chemoembolization (TACE) in liver metastasis for colorectal cancer?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "662fbfc4187cba990d000010",
+            "body": "Is short-course radiation therapy a cost-effective therapy in the neoadjuvant treatment of locally advanced rectal cancer?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "66301f5a187cba990d000028",
+            "body": "Are there any episignatures for Duchenne Muscular Dystrophy?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "6621506cb9f8b89d7e000007",
+            "body": "What are the minimum molecular determinations necessary for the initial treatment of advanced colorectal cancer in clinical practice?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "66301c47187cba990d000025",
+            "body": "What are the most common issues that need to be addressed in adults with Duchenne Muscular Dystrophy?",
+            "type": "list",
+            "output_answer": "[\"joint contractures\", \"cardiomyopathy\", \"respiratory insufficiency\", \"weight gain\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "joint contractures"
+                ],
+                [
+                    "cardiomyopathy"
+                ],
+                [
+                    "respiratory insufficiency"
+                ],
+                [
+                    "weight gain"
+                ]
+            ]
+        },
+        {
+            "id": "6621510eb9f8b89d7e000008",
+            "body": "What histological features are described in colorectal tumors with BRAF mutation?",
+            "type": "list",
+            "output_answer": "[\"signet ring cell carcinoma\", \"mucinous adenocarcinoma\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "signet ring cell carcinoma"
+                ],
+                [
+                    "mucinous adenocarcinoma"
+                ]
+            ]
+        },
+        {
+            "id": "662e44e9187cba990d00000b",
+            "body": "Is vaccination against all arboviruses indicated for pregnant women?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "662fc4b1187cba990d000016",
+            "body": "What are the mechanisms of action of regorafenib on tumor cells?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "661d5fe1eac11fad33000024",
+            "body": "What are the types of Polycystic Kidney Disease?",
+            "type": "list",
+            "output_answer": "[]\n",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "66214f52b9f8b89d7e000005",
+            "body": "Is tumor expression of Topoisomerase I a biomarker of response to irinotecan in colorectal cancer patients therapy?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "662f401b187cba990d00000e",
+            "body": "Is Vitamin D deficiency associated with sepsis mortality?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "66214b9cb9f8b89d7e000001",
+            "body": "Which countries have a higher incidence of colorectal cancer?",
+            "type": "list",
+            "output_answer": "[]\n```json\n{}\n```",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "66302978187cba990d000034",
+            "body": "What are the primary and secondary endpoints of Pamrevlumab?",
+            "type": "list",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": []
+        },
+        {
+            "id": "66099ac8fdcbea915f00001f",
+            "body": "What are the mechanisms of secondary resistance to anti-EGFR monoclonal antibodies in colorectal cancer treatment?",
+            "type": "list",
+            "output_answer": "[\"MEK-ERK pathway\", \"PIK3CA-AKT pathway\"]",
+            "ideal_answer": "",
+            "exact_answer": [
+                [
+                    "MEK-ERK pathway"
+                ],
+                [
+                    "PIK3CA-AKT pathway"
+                ]
+            ]
+        },
+        {
+            "id": "661d19d5eac11fad33000007",
+            "body": "Can the neonatal Pediatric Sepsis Biomarker Risk Model (nPERSEVERE) accurately predict mortality in neonatal sepsis?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "662fc0bc187cba990d000011",
+            "body": "Can calcium dietary supplementation reduce the risk of colorectal cancer?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        },
+        {
+            "id": "66300ee7187cba990d00001c",
+            "body": "What is the prevalence of intellectual developmental disorders in Duchenne Muscular Dystrophy?",
+            "type": "factoid",
+            "output_answer": "[]",
+            "ideal_answer": "",
+            "exact_answer": [
+                []
+            ]
+        },
+        {
+            "id": "660999bffdcbea915f00001b",
+            "body": "Is treatment with acetyl salicylic acid indicated to prevent colorectal adenomas?",
+            "type": "yesno",
+            "output_answer": "no",
+            "ideal_answer": "",
+            "exact_answer": "no"
+        }
+    ]
+}
