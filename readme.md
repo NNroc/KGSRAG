@@ -1,4 +1,8 @@
 # KGSRAG
+## Overview
+This study addresses critical challenges in biomedical information retrieval and reasoning, aiming to achieve efficient and precise knowledge discovery and deep information mining from vast biomedical data. Our system tackles domain knowledge updates through real-time knowledge graphs, resolves inefficient retrieval via fine-grained entity and relation matching and a three-tier filtering mechanism, and effectively mitigates hallucinations through rigorous claim-level verification. This enables precise information localization while minimizing contextual noise.
+![img.png](media/img.png)
+
 Code for [xiv](https://)
 
 ## Dataset
