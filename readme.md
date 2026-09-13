@@ -1,5 +1,5 @@
 # KGSRAG
-Code for [TechRxiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175735355.54231550/v1)
+Code for KGSRAG: Retrieval-Augmented Generation System for Biomedical Information Retrieval and Reasoning Based on Knowledge Graphs and Statements.[TechRxiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175735355.54231550/v1)
 
 ## Dataset
 The [BioASQ-QA](https://pmc.ncbi.nlm.nih.gov/articles/PMC10042099/pdf/41597_2023_Article_2068.pdf) dataset can be downloaded following the instructions at [here](https://participants-area.bioasq.org/datasets/). 
