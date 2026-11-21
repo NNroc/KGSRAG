@@ -1,5 +1,5 @@
 # KGSRAG
-Code for KGSRAG: Retrieval-Augmented Generation System for Biomedical Information Retrieval and Reasoning Based on Knowledge Graphs and Statements.[TechRxiv](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175735355.54231550/v1)
+Code for KGSRAG: Retrieval-Augmented Generation System for Biomedical Information Retrieval and Reasoning Based on Knowledge Graphs and Statements. [Information Sciences](https://doi.org/10.1016/j.ins.2026.124450), vol. 767, article 124450, 2027.
 
 ## Dataset
 The [BioASQ-QA](https://pmc.ncbi.nlm.nih.gov/articles/PMC10042099/pdf/41597_2023_Article_2068.pdf) dataset can be downloaded following the instructions at [here](https://participants-area.bioasq.org/datasets/). 
@@ -22,7 +22,7 @@ KGSRAG
  |    |-- bioasq_corpus.json
  |    |-- bioasq_qa.json
  |    |-- pubmedqa_corpus.json
- |    |-- pubmed_qa.json
+ |    |-- pubmedqa_qa.json
 ```
 
 ## Environment
@@ -40,21 +40,35 @@ python ./preprocess/pre_pubmedqa.py
 
 ## Information Extraction
 ```
-bash ./script/information_extraction.sh
+bash ./scripts/information_extraction.sh
 ```
 
 ## Question Extraction
 ```
-bash ./script/question_decomposition.sh
+bash ./scripts/question_decomposition.sh
 ```
 
 ## Answer Generation
 ```
-bash script/generate_answer.sh
+bash scripts/generate_answer.sh
 ```
 
 ## Evaluation
 ```
-bash script/evaluate_bioasq.sh
-bash script/evaluate_pubmedqa.sh
+bash scripts/evaluate_bioasq.sh
+bash scripts/evaluate_pubmedqa.sh
+```
+
+## Citation
+If you find this work useful, please cite our paper:
+```bibtex
+@article{nie2027kgsrag,
+  title   = {KGSRAG: Retrieval-augmented generation system for medical information retrieval and reasoning based on knowledge graphs and statements},
+  author  = {Nie, Pengyuan and Lin, Mengxuan and Ma, Wenbing and Cong, Linlin and Yin, Rongling and Zu, Mian and Wu, Qingqiang and Wang, Lei},
+  journal = {Information Sciences},
+  volume  = {767},
+  pages   = {124450},
+  year    = {2027},
+  doi     = {10.1016/j.ins.2026.124450}
+}
 ```
